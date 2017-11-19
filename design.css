@@ -1,0 +1,62 @@
+input[type=text] {
+	width: 130px;
+	-webkit-transition: width 0.4s ease-in-out;
+	transition: width 0.4s ease-in-out;
+}
+body{
+	overflow: hidden;
+}
+#headerHomeDiv{
+  position: absolute;
+	background-color: black;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 99%;
+  height: 97%;
+}
+#headerYourTracksDiv{
+  position: absolute;
+	background-color: black;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 99%;
+  height: 97%;
+}
+#headerProfileDiv{
+  position: absolute;
+	background-color: black;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 99%;
+  height: 97%;
+}
+#homeDiv{
+	position: absolute;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 99%;
+  height: 97%;
+}
+#yourTracksDiv{
+	position: absolute;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 99%;
+  height: 97%;
+}
+#profileDiv{
+	position: absolute;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 99%;
+  height: 97%;
+}
+#searchDiv{
+	
+}
