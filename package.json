@@ -48,8 +48,10 @@
 	"bugs": "https://bugs.jqueryui.com/",
 	"license": "MIT",
 	"scripts": {
-		"test": "grunt"
-	},
+  "start": "node index.js",
+  "test": "mocha",
+  "postinstall": "bower install && grunt build"
+},
 	"dependencies": {},
 	"devDependencies": {
 		"commitplease": "2.3.0",
